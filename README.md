@@ -1,7 +1,7 @@
 ### Olá amigos! 👋
 ✨ Sou um FullStack Developer ✨  
 
-<img align="right" height="100" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - 🚀 Buscando novos desafios.   
 - ⚡  Buscando colaborar com projetos desafiadores.   
