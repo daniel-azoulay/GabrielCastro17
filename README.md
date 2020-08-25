@@ -1,5 +1,5 @@
 ### Olá amigos! 👋
-✅ Sou um FullStack Developer ✅   
+👨🏻‍💻 Sou um FullStack Developer   
 
 <img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
